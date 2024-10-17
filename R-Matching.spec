@@ -7,7 +7,7 @@ Release:          1
 Summary:          Multivariate and Propensity Score Matching with Balance Optimization
 Group:            Sciences/Mathematics
 License:          GPLv3
-URL:              http://cran.r-project.org/web/packages/Matching/index.html
+URL:              https://cran.r-project.org/web/packages/Matching/index.html
 Source0:          http://cran.r-project.org/src/contrib/Matching_4.8-3.1.tar.gz
 BuildRequires:    R-devel R-MASS R-rgenoud R-graphics R-stats R-parallel R-grDevices
 Requires:         R-core R-MASS R-rgenoud R-graphics R-stats R-parallel R-grDevices
